@@ -31,7 +31,7 @@
       class="mr-4"
       @click="validate"
     >
-      Validate
+      Submit
     </v-btn>
 
   </v-form>
