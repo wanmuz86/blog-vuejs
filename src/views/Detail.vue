@@ -56,12 +56,6 @@
     </v-card-text>
 
     <v-divider class="mx-4"></v-divider>
-
-
-    
-    
-
-    
   </v-card>
   </v-container>
 </template>

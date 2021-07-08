@@ -5,7 +5,7 @@
     flat
     tile
   >
-     <v-toolbar dense>
+     <v-toolbar dense color="indigo" dark>
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
 
       <v-toolbar-title>My blogs</v-toolbar-title>
